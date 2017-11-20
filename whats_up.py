@@ -1,6 +1,6 @@
 from errbot import BotPlugin, botcmd
 
-class WhatsUpBot(BotPlugin)
+class WhatsUpBot(BotPlugin):
     """Example 'What Up!' plugin for Errbot"""
 
     @botcmd
