@@ -3,7 +3,7 @@ Name = WhatUpBot
 Module = whats_up
 
 [Python]
-Version = 3+
+Version = 2+
 
 [Documentation]
 Description = Plugin for Errbot that responds to say Whats Up.
